@@ -51,6 +51,7 @@
 - Dynamic Routing is being used in the project.
 - Nested Routing is used
 - For data,client Site is created and made an Database to fulfill the requirements of the project.
+- React Rating is used here.
 - ## Most Importantly, the project consist MongoDB database. I have used Firebase Auth system for the login and SignUp. In this project the admin dashboard and normal user dashboard is different
 
 ---
