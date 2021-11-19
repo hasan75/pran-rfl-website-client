@@ -21,15 +21,14 @@ const Products = () => {
         <Container className="mb-5">
           <Bounce top cascade>
             <h2 className="text-center text-uppercase mt-5 mb-4 feature">
-              Latest PRODUCTS
+              Popular Products
             </h2>
             <p
               style={{ maxWidth: "650px" }}
               className="text-center mx-auto mt-3"
             >
               {" "}
-              A curated collection of comfortable shoes & sandals because your
-              feet truly deserves to be in sheer comfort!
+              A superb collection of great and comfortable items of foods & other household items to make your life much easier.
             </p>
           </Bounce>
           <Row>
