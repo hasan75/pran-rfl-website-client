@@ -49,7 +49,7 @@ const useFirebase = () => {
   }
   // add user to db
   function addUserToDB(name, email) {
-    fetch("http://localhost:5000/users", {
+    fetch("https://fast-sands-24865.herokuapp.com/users", {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify({ name, email }),
