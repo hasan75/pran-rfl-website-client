@@ -12,7 +12,7 @@ const Footer = () => {
           <Row>
             <Col sm={12} md={6} lg={3}>
               <Zoom>
-                <h4 className="col-title">Wanna a member?</h4>
+                <h4 className="col-title">Want to get updates?</h4>
                 <h5 className="text-muted">Sign up for our Newsletter</h5>
                 <form className="d-flex">
                   <input
@@ -126,7 +126,7 @@ const Footer = () => {
         </Container>
       </div>
       <div className="footer">
-        <p className="text-center"> <span className="text-warning fw-bold"> Copyright &copy; Hasan AHmed || Programming Hero</span></p>
+        <p className="text-center"> <span className="text-warning fw-bold"> &copy; Hasan Ahmed || Programming Hero 2021</span></p>
       </div>
     </>
   );
