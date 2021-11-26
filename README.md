@@ -14,9 +14,9 @@
 
 - https://fast-sands-24865.herokuapp.com/
 
-# [Server Site of Pran-RFL -Github Link](https://github.com/programming-hero-web-course-4/niche-website-server-side-hasan75)
+# [Server Site of Pran-RFL -Github Link](https://github.com/hasan75/pran-rfl-website-client)
 
-- https://github.com/programming-hero-web-course-4/niche-website-server-side-hasan75
+- https://github.com/hasan75/pran-rfl-website-client
 
 ---
 
@@ -24,6 +24,10 @@
 
 - Full Website is a Full Stack webapp built by react.
 - Several components are added and differentiated for React Component Practice Purpose
+- User can login and Sign Up
+- User can explore the products, buy products, create several orders, edit his/her order.
+- Admin has dedicated dashboard, can add new products, edit and delete products
+- Admin can edit order status (pending to accepted).
 
 ---
 
