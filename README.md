@@ -14,9 +14,9 @@
 
 - https://fast-sands-24865.herokuapp.com/
 
-# [Server Site of Pran-RFL -Github Link](https://github.com/hasan75/pran-rfl-website-client)
+# [Server Site of Pran-RFL -Github Link](https://github.com/hasan75/pran-rfl-server-site)
 
-- https://github.com/hasan75/pran-rfl-website-client
+- https://github.com/hasan75/pran-rfl-server-site
 
 ---
 
